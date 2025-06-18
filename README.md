@@ -14,7 +14,7 @@ Im passionate about building software thats scales and lasts in backend developm
 - Learning python and pytorch
 ---
 ## Socials📲
-I am also an educational youtuber sharing my my knowledge in java with whoever needs it
+I am also an educational youtuber sharing my knowledge in java with whoever needs it
 
 - Yout[](https://www.youtube.com/channel/UCwWGIjP6iXmBooKbvypcYnw)ube
 - Monkey[](https://monkeytype.com/profile/daebetypin)Type
