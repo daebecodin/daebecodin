@@ -1,16 +1,25 @@
-## Hi there 👋
+# What's Up, Im Durand😎
 
-<!--
-**daebecodin/daebecodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## About Me👀
+Im a third year computer science student at San Francisco State University.
+Im passionate about building software thats scales and lasts in backend development and machine learning
+---
+## What Am I Doing Rn?🧐
+- Catch me at an AI/AWS meetup in SF
+- Building applications with Spring
+- Learning python and pytorch
+---
+## Socials📲
+I am also an educational youtuber sharing my my knowledge in java with whoever needs it
+
+- Yout[](https://www.youtube.com/channel/UCwWGIjP6iXmBooKbvypcYnw)ube
+- Monkey[](https://monkeytype.com/profile/daebetypin)Type
+---
+## Connect🌎
+- Linked[](https://www.linkedin.com/in/durand-dyer-branch-35aa86294/)In
+---
+## Tech Stack💻
