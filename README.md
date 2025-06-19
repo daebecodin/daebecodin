@@ -6,7 +6,7 @@ Welcome to my github
 ---
 ## About Me👀
 Im a third year computer science student at San Francisco State University.
-Im passionate about building software thats scales and lasts in backend development and machine learning
+I love building software thats scales and lasts in the backend and machine learning
 ---
 ## What Am I Doing Rn?🧐
 - Catch me at an AI/AWS meetup in SF
