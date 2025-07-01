@@ -1,5 +1,4 @@
 # What's Up, Im Durand😎
----
 ## About Me👀
 Im a third year computer science student at San Francisco State University.
 I love building software that scales and lasts in the backend and machine learning
