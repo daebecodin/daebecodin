@@ -1,8 +1,4 @@
 # What's Up, Im Durand😎
-
-
-Welcome to my github
-
 ---
 ## About Me👀
 Im a third year computer science student at San Francisco State University.
